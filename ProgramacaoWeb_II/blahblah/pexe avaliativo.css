@@ -1,0 +1,124 @@
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family:comic sans ms;
+    }
+    body{
+      background:black;
+      padding:40px;
+    }
+    .topo{
+      width:100%;
+      background:#8000ff;
+      color:white;
+      text-align:center;
+      padding:20px;
+      font-size:30px;
+      font-weight:bold;
+      border-radius:15px;
+      margin-bottom:40px;
+      box-shadow:0 4px 10px rgba(0,0,0,0.4);
+    }
+    .container{
+      max-width:500px;
+      margin:auto;
+      display:flex;
+      flex-direction:column;
+      gap:20px;
+    }
+    .box{
+      background:white;
+      min-height:380px;
+      border-radius:18px;
+      border:3px solid #8000ff;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:flex-start;
+      padding:15px;
+      box-shadow:0 4px 8px rgba(128,0,255,0.3);
+    }
+    .titulo{
+      margin-top:20px;
+      margin-bottom:15px;
+      font-size:22px;
+      font-weight:bold;
+      color:#8000ff;
+    }
+    form{
+      width:100%;
+    }
+    .inputs{
+      width:100%;
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+      margin-top:10px;
+    }
+    input{
+      padding:12px;
+      border:2px solid #8000ff;
+      border-radius:10px;
+      font-size:16px;
+      outline:none;
+    }
+    button{
+      padding:12px;
+      border:none;
+      border-radius:10px;
+      background:#8000ff;
+      color:white;
+      font-size:16px;
+      cursor:pointer;
+    }
+    .resultado{
+      margin-top:15px;
+      font-size:18px;
+      font-weight:bold;
+      color:#8000ff;
+      text-align:center;
+    }
+    .triangulo{
+      width:0;
+      height:0;
+      border-left:45px solid transparent;
+      border-right:45px solid transparent;
+      border-bottom:75px solid #8000ff;
+      margin-top:10px;
+    }
+    .quadrado{
+      width:85px;
+      height:85px;
+      background:#8000ff;
+      margin-top:10px;
+    }
+    .retangulo{
+      width:120px;
+      height:70px;
+      background:#8000ff;
+      margin-top:10px;
+    }
+    .circulo{
+      width:85px;
+      height:85px;
+      background:#8000ff;
+      border-radius:50%;
+      margin-top:10px;
+    }
+    .trapezio{
+      width:110px;
+      height:0;
+      border-bottom:75px solid #8000ff;
+      border-left:20px solid transparent;
+      border-right:20px solid transparent;
+      margin-top:10px;
+    }
+    .losangulo{
+      width:75px;
+      height:75px;
+      background:#8000ff;
+      transform:rotate(45deg);
+      margin-top:25px;
+      margin-bottom:25px;
+    }

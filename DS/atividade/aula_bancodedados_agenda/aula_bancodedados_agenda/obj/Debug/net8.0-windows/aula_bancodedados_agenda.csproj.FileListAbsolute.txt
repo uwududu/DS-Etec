@@ -1,0 +1,160 @@
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.exe
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.deps.json
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.runtimeconfig.json
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.AssemblyReference.cache
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form1.resources
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.GenerateResource.cache
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfoInputs.cache
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfo.cs
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.CoreCompileInputs.cache
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_ban.3F7760D7.Up2Date
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\refint\aula_bancodedados_agenda.dll
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.genruntimeconfig.cache
+E:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\ref\aula_bancodedados_agenda.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.exe
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.deps.json
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.runtimeconfig.json
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.AssemblyReference.cache
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form1.resources
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.GenerateResource.cache
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfoInputs.cache
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfo.cs
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.CoreCompileInputs.cache
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_ban.3F7760D7.Up2Date
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\refint\aula_bancodedados_agenda.dll
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.genruntimeconfig.cache
+D:\Ixxcola\2°DS\Desinvove sixtemas\Windows Forms\2° Semestre\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\ref\aula_bancodedados_agenda.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.exe
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.deps.json
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.runtimeconfig.json
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.AssemblyReference.cache
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form1.resources
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.GenerateResource.cache
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfoInputs.cache
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfo.cs
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.CoreCompileInputs.cache
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_ban.3F7760D7.Up2Date
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\refint\aula_bancodedados_agenda.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.genruntimeconfig.cache
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\ref\aula_bancodedados_agenda.dll
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Lista_consulta.resources
+C:\Users\atom0\OneDrive\Documentos\Aula Agenda C# Sql\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form_Login.resources
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.exe
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.deps.json
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.runtimeconfig.json
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form1.resources
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form_Login.resources
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Lista_consulta.resources
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_ban.3F7760D7.Up2Date
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\refint\aula_bancodedados_agenda.dll
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\ref\aula_bancodedados_agenda.dll

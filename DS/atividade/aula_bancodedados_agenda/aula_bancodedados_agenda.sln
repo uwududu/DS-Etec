@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_bancodedados_agenda", "aula_bancodedados_agenda\aula_bancodedados_agenda.csproj", "{14DC463F-9A31-4965-963D-D9D0796E2025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DC463F-9A31-4965-963D-D9D0796E2025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DC463F-9A31-4965-963D-D9D0796E2025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DC463F-9A31-4965-963D-D9D0796E2025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DC463F-9A31-4965-963D-D9D0796E2025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930AEEEB-88BF-422D-8F66-9D944FE407E7}
+	EndGlobalSection
+EndGlobal

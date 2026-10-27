@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\aluno\\downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\aluno\\downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\aluno\\downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Login.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form_Login.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form_Login.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:34:05.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista_consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Lista_consulta.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Lista_consulta.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:33:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:24:24.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs [Projeto]",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:46:50.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form_Login.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs [Projeto]",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form_Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:33:51.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lista_consulta.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Lista_consulta.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs [Projeto]",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Lista_consulta.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:33:56.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
