@@ -1,0 +1,1 @@
+Minhas aulas de programção web II (php), banco de dados II (usando sql pela primeira vez, no banco de dados I era o banco logico) e desenvolvimento de sistemas (DS) que e C# com SQL
