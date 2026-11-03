@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\",
+  "WorkspaceRootPath": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\atom0\\onedrive\\documentos\\aula agenda c# sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\atom0\\onedrive\\documentos\\aula agenda c# sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\atom0\\onedrive\\documentos\\aula agenda c# sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\atom0\\onedrive\\documentos\\aula agenda c# sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\kau\u00E3\\documents\\my_bs\\ds-etec-4a1d7291282038813ad34b21ec1a574af07f8132\\ds\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\lista_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\kau\u00E3\\documents\\my_bs\\ds-etec-4a1d7291282038813ad34b21ec1a574af07f8132\\ds\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|c:\\users\\kau\u00E3\\documents\\my_bs\\ds-etec-4a1d7291282038813ad34b21ec1a574af07f8132\\ds\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC463F-9A31-4965-963D-D9D0796E2025}|aula_bancodedados_agenda\\aula_bancodedados_agenda.csproj|solutionrelative:aula_bancodedados_agenda\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,60 +38,61 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Program.cs",
-              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Program.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Program.cs",
-              "RelativeToolTip": "aula_bancodedados_agenda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T00:51:17.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form_Login.cs",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
+              "DocumentMoniker": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
               "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form_Login.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
-              "RelativeToolTip": "aula_bancodedados_agenda\\Form_Login.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwDAAAABWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs*",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form_Login.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T23:37:46.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form_Login.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
+              "DocumentMoniker": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs",
               "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form_Login.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs [Projeto]",
-              "RelativeToolTip": "aula_bancodedados_agenda\\Form_Login.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form_Login.cs [Projeto]*",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form_Login.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T23:36:24.315Z"
+              "WhenOpened": "2026-09-23T23:36:24.315Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
               "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form1.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
-              "RelativeToolTip": "aula_bancodedados_agenda\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBYAAABqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs*",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form1.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T14:27:32.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "aula_bancodedados_agenda\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T14:27:34.978Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lista_consulta.cs",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
               "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Lista_consulta.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
+              "ToolTip": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
               "RelativeToolTip": "aula_bancodedados_agenda\\Lista_consulta.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAcwCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,25 +101,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs",
-              "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Form1.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Form1.cs [Projeto]",
-              "RelativeToolTip": "aula_bancodedados_agenda\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T14:27:34.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Lista_consulta.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs",
               "RelativeDocumentMoniker": "aula_bancodedados_agenda\\Lista_consulta.cs",
-              "ToolTip": "C:\\Users\\atom0\\OneDrive\\Documentos\\Aula Agenda C# Sql\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Kau\u00E3\\Documents\\my_bs\\DS-Etec-4a1d7291282038813ad34b21ec1a574af07f8132\\DS\\atividade\\aula_bancodedados_agenda\\aula_bancodedados_agenda\\Lista_consulta.cs [Projeto]",
               "RelativeToolTip": "aula_bancodedados_agenda\\Lista_consulta.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T22:45:12.188Z"
+              "WhenOpened": "2026-08-19T22:45:12.188Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
