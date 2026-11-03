@@ -158,3 +158,16 @@ C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\D
 C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.pdb
 C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.genruntimeconfig.cache
 C:\Users\Aluno\Downloads\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\ref\aula_bancodedados_agenda.dll
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.AssemblyReference.cache
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form1.resources
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Form_Login.resources
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.Lista_consulta.resources
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.GenerateResource.cache
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfoInputs.cache
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.AssemblyInfo.cs
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.csproj.CoreCompileInputs.cache
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.sourcelink.json
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.dll
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\refint\aula_bancodedados_agenda.dll
+C:\Users\Blahaj\Desktop\idk\shit\DS-Etec\DS\atividade\aula_bancodedados_agenda\aula_bancodedados_agenda\obj\Debug\net8.0-windows\aula_bancodedados_agenda.pdb

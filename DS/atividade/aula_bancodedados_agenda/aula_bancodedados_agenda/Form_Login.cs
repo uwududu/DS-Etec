@@ -35,29 +35,32 @@ namespace aula_bancodedados_agenda
                 string sql = "SELECT * FROM usuario WHERE login = @login AND senha = MD5(@senha)";
 
                 MySqlCommand comando = new MySqlCommand(sql, conexao);
-                comando.Parameters.AddWithValue("@login", txt_usuario.Text);
+                comando.Parameters.AddWithValue("@login", txt_usuario.Text.Trim());
                 comando.Parameters.AddWithValue("@senha", txt_senha.Text);
 
                 MySqlDataAdapter adaptador = new MySqlDataAdapter(comando);
                 DataTable tabela = new DataTable();
                 adaptador.Fill(tabela);
 
-                if (tabela.Rows.Count > 0)
+                // TRATAMENTO DE CONSULTA VAZIA
+                if (tabela.Rows.Count == 0)
                 {
-                    MessageBox.Show("Login realizado com sucesso!", "Bem-vindo",
+                    MessageBox.Show("Usuário ou senha não localizados.\n" +
+                        "Verifique os dados digitados e tente novamente.",
+                        "Registro não localizado",
                         MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    Form1 formAgenda = new Form1();
-                    this.Hide();
-                    formAgenda.ShowDialog();
-                    this.Close();
-                }
-                else
-                {
-                    MessageBox.Show("Usuário ou senha incorretos.", "Erro",
-                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txt_usuario.Clear();   // limpa as caixas de texto
                     txt_senha.Clear();
                     txt_usuario.Focus();
+                    return;
                 }
+
+                MessageBox.Show("Login realizado com sucesso!", "Bem-vindo",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Form1 formAgenda = new Form1();
+                this.Hide();
+                formAgenda.ShowDialog();
+                this.Close();
             }
             catch (Exception ex)
             {
@@ -93,7 +96,7 @@ namespace aula_bancodedados_agenda
 
                 string sql = "INSERT INTO usuario (login, senha) VALUES (@login, MD5(@senha))";
                 MySqlCommand comando = new MySqlCommand(sql, conexao);
-                comando.Parameters.AddWithValue("@login", login);
+                comando.Parameters.AddWithValue("@login", login.Trim());
                 comando.Parameters.AddWithValue("@senha", senha);
 
                 conexao.Open();

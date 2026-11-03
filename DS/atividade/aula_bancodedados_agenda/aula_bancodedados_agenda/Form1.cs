@@ -16,6 +16,15 @@ namespace aula_bancodedados_agenda
             InitializeComponent();
         }
 
+        private void LimparCampos()
+        {
+            txt_nome.Clear();
+            txt_email.Clear();
+            txt_telefone.Clear();
+            id_Contato_Selecionado = "";
+            txt_nome.Focus();
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             // TAREFA 3 - Validação ANTES de abrir a conexão com o banco
@@ -35,8 +44,9 @@ namespace aula_bancodedados_agenda
                 conexao = new MySqlConnection(data_source);
 
                 string sql = "";
+                bool atualizando = !string.IsNullOrEmpty(id_Contato_Selecionado);
 
-                if (string.IsNullOrEmpty(id_Contato_Selecionado))
+                if (!atualizando)
                 {
                     // TAREFA 2 - INSERT com parâmetros
                     sql = "INSERT INTO contato (nome, email, telefone) VALUES (@nome, @email, @telefone)";
@@ -48,20 +58,31 @@ namespace aula_bancodedados_agenda
                 }
 
                 MySqlCommand comando = new MySqlCommand(sql, conexao);
-                comando.Parameters.AddWithValue("@nome", txt_nome.Text);
-                comando.Parameters.AddWithValue("@email", txt_email.Text);
-                comando.Parameters.AddWithValue("@telefone", txt_telefone.Text);
+                comando.Parameters.AddWithValue("@nome", txt_nome.Text.Trim());
+                comando.Parameters.AddWithValue("@email", txt_email.Text.Trim());
+                comando.Parameters.AddWithValue("@telefone", txt_telefone.Text.Trim());
 
-                if (!string.IsNullOrEmpty(id_Contato_Selecionado))
+                if (atualizando)
                 {
                     comando.Parameters.AddWithValue("@id", id_Contato_Selecionado);
                 }
 
                 conexao.Open();
-                comando.ExecuteNonQuery(); // ExecuteNonQuery é o correto para INSERT/UPDATE
+                int linhasAfetadas = comando.ExecuteNonQuery(); // correto para INSERT/UPDATE
+
+                // TRATAMENTO DE CONSULTA VAZIA: UPDATE que não encontrou o registro
+                if (linhasAfetadas == 0)
+                {
+                    MessageBox.Show("O registro não foi localizado. Ele pode ter sido excluído.\n" +
+                        "Os campos foram limpos; faça uma nova consulta.",
+                        "Registro não localizado",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    LimparCampos();
+                    return;
+                }
 
                 MessageBox.Show("Inserido/Atualizado com sucesso");
-                id_Contato_Selecionado = "";
+                LimparCampos();
             }
             catch (Exception ex)
             {
